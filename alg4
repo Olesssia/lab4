@@ -1,0 +1,3 @@
+var wektor = [5, 3, 8, 1, 7, 2];
+var najwiekszyElement = znajdzNajwiekszyElement(wektor);
+console.log(najwiekszyElement); // powinno wyświetlić "8"
